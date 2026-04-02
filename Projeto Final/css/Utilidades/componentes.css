@@ -1,0 +1,23 @@
+.botão {
+    display: inline-block;
+    background-image: linear-gradient(#ff1d00, #ff3c00);
+    color: aliceblue;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 20px;
+    border-radius: 6px;
+    grid-column: 1;
+    margin-top: 20px;
+ }
+
+ .botão:hover {
+    display: inline-block;
+    background-image: linear-gradient(#d4250e, #ff4800);
+    color: aliceblue;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 20px;
+    border-radius: 6px;
+    grid-column: 1;
+    margin-top: 20px;
+ }
